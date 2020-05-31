@@ -1,7 +1,7 @@
 # 💻📜Email_sender -By Atharva Ashok Patil
 #### This Python program sends email to your client
 
-#  dash your terminal and open the `email_sender using : 
+#  Dash your terminal and open the `email_sender using : 
 
     python3 email_sendre.py
 
