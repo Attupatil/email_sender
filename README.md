@@ -7,7 +7,7 @@
 
 #  Note :
 Please go through the code and check the comment written their it will guide you where you should put sender/receiver email ID/password
-
+Their is a html file attached to it please look towards it as from their you may type the message which you want to send.
 
 #   Hit this in your terminal/powershell :
 
