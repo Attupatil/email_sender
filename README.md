@@ -1,11 +1,15 @@
-# 💻📜Email_sender
+# 💻📜Email_sender -By Atharva Ashok Patil
 #### This Python program sends email to your client
 
-#  dash your terminal and open the `email_sender using  
+#  dash your terminal and open the `email_sender using : 
 
     python3 email_sendre.py
 
-#   Hit this in your terminal/powershell
+#  Note :
+Please go through the code and check the comment written their it will guide you where you should put sender/receiver email ID/password
+
+
+#   Hit this in your terminal/powershell :
 
   
  
